@@ -18,7 +18,7 @@ A lightweight and fast command-line tool written in Rust that scrapes the **NASA
 Ensure you have the [Rust toolchain](https://rustup.rs/) installed, then clone and install the binary:
 
 ```bash
-git clone [https://github.com/](https://github.com/)<your-username>/nasa-wallpaper-dl.git
+git clone [https://github.com/](https://github.com/)realbustinjieber/nasa-wallpaper-dl.git
 cd nasa-wallpaper-dl
 cargo install --path .
 ```
