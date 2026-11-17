@@ -44,7 +44,6 @@ nasa-wallpaper-dl -p /path_to_my_folder/here/
 ## Roadmap
 
 - [ ] Add `-m` / `--month` and `-y` / `--year` flags to download past APOD archives
-- [ ] Prefer full-resolution (`HD`) image links when available
 - [ ] Skip already downloaded files to avoid redundant network requests
 - [ ] Optional flag to automatically set the latest image as desktop wallpaper
 
